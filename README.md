@@ -15,7 +15,7 @@
 
 ## 📂 Мои проекты
 
-### 🔧 [ProjectSite](https://github.com/ghub9645-cell/ProjectSite)
+### 🔧 [code](https://github.com/ghub9645-cell/code)
 Веб-сайт для продажи автомобилей из США на Python Flask с базой данных SQLite3
 
 ### 👤 [ghub9645-cell](https://github.com/ghub9645-cell/ghub9645-cell)
